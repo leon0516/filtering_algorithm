@@ -1,6 +1,8 @@
 十大滤波算法
 ============
 
+[![Join the chat at https://gitter.im/leon0516/lv_bo_suan_fa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/leon0516/lv_bo_suan_fa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ARDUINO上的滤波算法。
 
 1. 限幅滤波法（又称程序判断滤波法）
